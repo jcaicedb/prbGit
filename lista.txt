@@ -1,0 +1,10 @@
+ El volumen de la unidad D no tiene etiqueta.
+ El n£mero de serie del volumen es: 2843-E65E
+
+ Directorio de D:\proyectosPython\prbGit
+
+26/06/2022  10:07    <DIR>          .
+26/06/2022  10:07    <DIR>          ..
+26/06/2022  10:07                 0 lista.txt
+               1 archivos              0 bytes
+               2 dirs  367,979,790,336 bytes libres
